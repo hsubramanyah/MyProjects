@@ -1,5 +1,5 @@
 # MyProjects
-This Repo contains the projects that I have worked !!!
+This Repo contains the projects that I have worked on!!!
 
 ## Java_Socket_TCP_IP
 A Java TCP/IP Multithreaded seat reservation system.
